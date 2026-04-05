@@ -27,6 +27,7 @@ TriNova is built on modern Android development standards:
 
 ## Video Demo 🎥
 Check out the TriNova Quiz in action!
+https://drive.google.com/drive/folders/1eS_B6O27r4UskqjCBPvsS6SUPCvwEMH9?usp=share_link
 
-*(Add your video demo link below)*
-[**Link to TriNova Video Demo**](YOUR_VIDEO_LINK_HERE)
+## APK
+Added the apk in the DevSprint Directory itself.
